@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_66f48ab204b5cb21a6a48b3bfd02184263c8ae5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_23b391c0cda99d47b23dc002a6eefee1b6c2ce10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.2_62d62eab302663666278deace224de5325936de8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_08bf54e750be0d9535694534d5291c1560f15e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_283b7f96ca735699a62f4f2f295349bcd6418036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_05181d5710ae89cea2988010fad2f15833c77130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_9973c5ee2f0ab9106fb7b1d98dff5a4e8b2c89d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_829e75c07ed9bf840097932488e14bdd905c3204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_d2aade840731e2035f03bc171a536496415d880e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_6f64e71a1af7bf7ceedbdac7f130bf4afb4b74c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_07f36dab1772d598870f75bddfd05e15d150b0e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_00a823928278908b9fd5ed32f02af9882b937e78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_627e62665f7acf8b1fbccf57ba0d0c84ff66dc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_e21a71e69da53dc29d2342bf8cdada729788ad0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_cffba337be5dd40a49c52164ba91432e872e16ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.5_eadf797554da173202e6bffac4f9d3be263cebf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_125b413c944523ff8e76a828963de095228a6c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.5_afd6e918fbddba3ac9966904b4b0b3bcfee698e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_1cf18e708286c3077e85d1379c246cf1dd6fd1cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.2_5e6c1990ab933348f58c2a1bae1f01daef491602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_1fe4279bc6a4720992ce293af92a0c51ab55ac5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_a417ce0a5db12ef47ecb65cb4b5677a6e8e584bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_e4ef1fe23d63491a859313c715869aa49ea4abb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_24616ef5ec15367caeb3c426f81c0699cd4d1771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_39d2711bc102922e8fd73ab06afba20e50b7fc91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_981446a0d42a7d062e13959dc30277452ed2c41d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\apps\Android\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_ad50372b23ba8f3cbf221e7e17829f270fcfdea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\AndroidStudioProjects\OCMusicJUnit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0572ec2c6068e3ac3b6e1f25e909cff78c278ed5.jar" />
+    </item>
+
+</items>
